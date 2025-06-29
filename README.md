@@ -1,2 +1,2 @@
-# Unified-Medical-Vision-Language-Modeling
-The official code of article ”Unified Medical Vision–Language Modeling for Pixel-Level Long-Tail Medical Image Analysis”
+# Medical Vision-Language Modeling with Semantic Interaction and Adaptive Refinement Prompting for Bias Mitigation
+The official code of article ”Medical Vision-Language Modeling with Semantic Interaction and Adaptive Refinement Prompting for Bias Mitigation”
