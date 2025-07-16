@@ -17,7 +17,7 @@ In this study, we propose a unified medical vision-language model applicable for
 
 
 ## Pretrained Model Links
-- [Qwen2.5-VL-7B-Instruct](https://huggingface.co/Qwen/Qwen2.5-VL-7B-Instruct)
+- [HuatuoGPT-Vision-7B-Qwen2.5VL](https://huggingface.co/FreedomIntelligence/HuatuoGPT-Vision-7B-Qwen2.5VL)
 - [IMIS-Net](https://github.com/uni-medical/IMIS-Bench/tree/main)
 
 
